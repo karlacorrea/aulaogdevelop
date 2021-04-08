@@ -24,7 +24,8 @@
 <a id="sobre"></a>
 ## 🧐 Sobre
 
-Uma aplaicação criada no Gdevelop 5, com finalidade apenas de ambientação ao ambiente de desenvolvimento de games, entender como funciona os comportamentos e ações de um jogo.
+Uma aplicação criada no Gdevelop 5, com finalidade apenas de ambientação ao ambiente de desenvolvimento de games, entender como funciona os comportamentos e ações de um jogo.
+A apresentação contendo O tutorial está disponível **[AQUI](https://docs.google.com/presentation/d/1Pvloi7NUzMCVO88vih6rmZaLThRRvrInMc_jvR_KjMU/edit?usp=sharing)**
 
 
 
