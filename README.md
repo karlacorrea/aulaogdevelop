@@ -16,7 +16,6 @@
 
 - [Sobre](#sobre)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Design](#design)
 - [Como Usar](#como-usar)
 - [Como Contribuir](#como-contribuir)
 
@@ -49,12 +48,6 @@ Para desenvolver, basta fazer o download pelo site do GDevelop 5, criar um novo 
 
 
 <br>
-
-### :heavy_check_mark: :computer: Resultado Web
-
-<h1 align="center">
-    <img alt="Web" src="video/web.gif" width="900px">
-</h1>
 
 <br>
 
