@@ -63,7 +63,7 @@ Para desenvolver, basta fazer o download pelo site do GDevelop 5, criar um novo 
 
 - ### **Pré-requisitos**
   - É **necessário** possuir o **[Gdevelope](https://gdevelop-app.com/)** instalado na máquina.
-  - Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
+  
   
 
 1. Faça um clone:
@@ -78,11 +78,7 @@ Para desenvolver, basta fazer o download pelo site do GDevelop 5, criar um novo 
 
 3. Divirta-se 🎉
 
-```sh
-  $ npm start
-  ou
-  $ yarn start
-```
+
 
 <br>
 
@@ -97,6 +93,6 @@ Para desenvolver, basta fazer o download pelo site do GDevelop 5, criar um novo 
 ---
 
 <h4 align="center">
-    Feito com 🧡 by <a href="https://www.linkedin.com/in/karlacorr%C3%AAa/" target="_blank">Karla</a>
+    Feito por 🧡 by <a href="https://www.linkedin.com/in/karlacorr%C3%AAa/" target="_blank">Karla</a>
 </h4>
 
