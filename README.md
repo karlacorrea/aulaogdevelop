@@ -3,7 +3,7 @@
    <img alt="leia comigo" title="#logo" src="https://github.com/karlacorrea/aulaogdevelop/blob/main/GAME%20B/sprites/01%20gameB.gif">
    <br><br>
    <b>Oficina "Handson on Games"</b>  
-<b> por Karla Correa (07/04/2021)</b>
+<b> </b>
    <br><br>
  
  <p align="center">
